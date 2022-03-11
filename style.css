@@ -1,0 +1,15 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: white;
+}
+div {
+  margin: 20px;
+  width: 70%;
+}
+span {
+  font-size: 20px;
+}
+
