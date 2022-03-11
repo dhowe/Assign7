@@ -1,4 +1,4 @@
-let N = 100;
+let N = 10;
 let model = {};
 
 function setup() {
